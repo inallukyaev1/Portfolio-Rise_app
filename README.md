@@ -1,12 +1,11 @@
-## Портфолио сайт
+## Portfolio 
 
-Портфолио - сайт для фотографа по имени Алекса Райс.
+Portfolio is a site for a photographer named Alexa Rice.
 
-Сделан перевод сайта на английский язык, видеоплеер, табы с переключением фотографий,  сделана форма обратной связи, мобильная адаптация, desktop-first.  
-<br/>
+The site was translated into English, a video player, tabs with switching photos, a feedback form was made, mobile adaptation, desktop-first.
 ### Ссылка на проект
 
-📷 [Портфолио](https://rolling-scopes-school.github.io/inallukyaev1-JSFEPRESCHOOL/portfolio/) 
+📷 [Portfolio](https://rolling-scopes-school.github.io/inallukyaev1-JSFEPRESCHOOL/portfolio/) 
 
 ### Используемые технологии
 
